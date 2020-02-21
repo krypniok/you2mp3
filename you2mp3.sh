@@ -1,6 +1,3 @@
-#pip install youtube-dl
-#sudo apt autoinstall sed jq youtube-dl ffmpeg
-
 #!/bin/bash
 
 #load the youtube lists URLs to $LINES
